@@ -57,3 +57,20 @@ Instructions
 2.	Open the Jupyter Notebook (Illegal_Activities_Analysis.ipynb) using Jupyter Notebook or JupyterLab.
 3.	Ensure that the necessary libraries (e.g., pandas, numpy, seaborn, statsmodels, xgboost) are installed.
 4.	Run each cell in the notebook sequentially to reproduce the analysis and results.
+
+
+Recommendations and Conclusions    
+Utilize XGBoost for Forecasting: Given its superior performance, XGBoost should be the primary choice for forecasting illegal logging and bushmeat poaching activities in ASF. This algorithm can provide more accurate and reliable predictions compared to ARIMA and VAR models. 
+
+Monitor and Respond to Trends: Continuous monitoring of illegal logging and poaching trends is crucial. Implement strategies to respond effectively to changes in these activities, considering the seasonal patterns and other trends identified in the analysis.  
+
+Enhance Conservation Strategies: Develop and implement targeted conservation strategies based on the insights from the predictive models. These strategies should focus on mitigating illegal activities while promoting ecological preservation and supporting community livelihoods.
+
+Policy Recommendations: Use the findings to inform policy decisions aimed at safeguarding ASF's ecological integrity. Policies should be designed to address the identified trends and patterns, with a focus on sustainable conservation practices and community engagement.
+
+Capacity Building: Invest in capacity building initiatives for local communities and law enforcement agencies. This includes training programs on conservation practices, biodiversity monitoring, and sustainable livelihoods to reduce reliance on illegal activities.
+
+Collaborative Efforts: Foster collaboration between stakeholders, including government agencies, NGOs, and local communities, to enhance the effectiveness of conservation efforts. Coordinate efforts to combat illegal activities and promote sustainable conservation practices.
+
+Continuous Evaluation: Regularly evaluate the effectiveness of the implemented strategies and predictive models. Adapt strategies based on new insights and changing trends to ensure long-term conservation success in ASF.
+
